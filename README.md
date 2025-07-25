@@ -1,1 +1,1 @@
-# AI-Mock-Interview-app
+# ai-mock-interview
